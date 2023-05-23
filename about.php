@@ -28,7 +28,7 @@ if (isset($_SESSION["driver"])) {
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Toko Supplier Daging Ayam Segar</title>
+    <title>Toko Supplier Daging Ayam Zegar</title>
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
     <link href="assets/style/main.css" rel="stylesheet" />
