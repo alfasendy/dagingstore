@@ -256,6 +256,7 @@ if (isset($_POST["deleteCart"])) {
                   <option value="JAKARTA">JAKARTA</option>
                   <option value="BOGOR">BOGOR</option>
                   <option value="TANGERANG">TANGERANG</option>
+                   <option value="Bandung">Bandung</option>
                   <option value="DEPOK">DEPOK</option>
                 </select>
               </div>
