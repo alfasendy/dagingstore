@@ -275,7 +275,7 @@ if (isset($_POST["deleteCart"])) {
             </div>
             <div class="col-md-12 mt-2">
               <div class="form-group">
-              <label for="rekening">Pilihan Pemabayaran</label>
+              <label for="rekening">Pilihan Pembayaran</label>
                   <?php 
                     $rekening = query("SELECT * FROM rekening_numbers");
                   ?>
