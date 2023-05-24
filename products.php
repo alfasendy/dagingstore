@@ -70,7 +70,7 @@ $categories = query("SELECT * FROM categories");
               <a href="index.php" class="nav-link">Home</a>
             </li>
             <li class="nav-item active">
-              <a href="products.php" class="nav-link">All Products</a>
+              <a href="products.php" class="nav-link">All Product</a>
             </li>
             <li class="nav-item">
               <a href="about.php" class="nav-link">About</a>
