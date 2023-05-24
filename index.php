@@ -156,7 +156,7 @@ if (isset($_SESSION["driver"])) {
             <div class="col-md-6">
               <h1 style="font-weight: bold; margin-bottom: 15px;">Toko Daging Ayam Potong Segar Online</h1>
               <p class="store-subtitle-landing" style="line-height: 28px; color: rgb(146, 146, 146);">
-                Elza Mandiri adalah toko daging yang menjual daging Ayam segar,
+                Rumah Ayam adalah toko daging yang menjual daging Ayam segar,
                 daging olahan dan bumbu pelengkap resep makanan olahan dari
                 bahan baku daging segar
               </p>
