@@ -101,7 +101,7 @@ if (isset($_POST["login"])) {
               />
             </div>
             <div class="col-lg-5">
-              <h2 class="mb-4">Belanja daging ayam, menjadi lebih mudah</h2>
+              <h2 class="mb-4">Belanja daging ayam, menjadi lebih gampang</h2>
               <form action="" method="POST" class="mt-3">
                   <?php if (isset($error)) : ?>
                       <div class="alert alert-danger w-75">
