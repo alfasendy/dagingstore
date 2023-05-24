@@ -155,7 +155,7 @@ if (isset($_POST["login"])) {
         <div class="row">
           <div class="col-12">
             <p class="pt-4 pb-2">
-              2020 Copyright Store by Hafizh. All Rights Reserved.
+              2020 Copyright Store by RumahAyam. All Rights Reserved.
             </p>
           </div>
         </div>
