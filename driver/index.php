@@ -18,7 +18,7 @@ if (!isset($_SESSION["login"]) && !isset($_SESSION["driver"])) {
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>Dashboard | Toko Supplier Daging Ayam Segarr</title>
+    <title>Dashboard | Toko Supplier Daging Ayam Segar</title>
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
     <link href="../assets/style/main.css" rel="stylesheet" />
