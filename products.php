@@ -118,7 +118,7 @@ $categories = query("SELECT * FROM categories");
                         </a>
                     <?php endif; ?>
                     <div class="dropdown-divider"></div>
-                    <a href="logout.php" class="dropdown-item">logout</a>
+                    <a href="logout.php" class="dropdown-item">Logout</a>
                   </div>
               </li>
               <li class="nav-item">
