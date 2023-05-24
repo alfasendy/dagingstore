@@ -23,6 +23,7 @@ $transaction_details = query("SELECT * FROM transactions_details INNER JOIN tran
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collpase navbar-collapse" id="navbarResponsive">
+      
       <!-- dekstop menu -->
       <ul class="navbar-nav d-none d-lg-flex ml-auto">
         <li class="nav-item dropdown">
