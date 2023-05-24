@@ -22,7 +22,7 @@ function query($query)
     return $rows;
 }
 
-// Jmlh data
+// Jumlah data
 function rows($query)
 {
     global $conn;
