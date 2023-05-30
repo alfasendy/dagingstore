@@ -336,7 +336,7 @@ $categories = query("SELECT * FROM categories");
             <?php endforeach; ?>
           ],
         },
-        methods: {
+        methods: {//
           changeActive(id) {
             this.activePhoto = id;
           },
